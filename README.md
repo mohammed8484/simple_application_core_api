@@ -1,1 +1,1 @@
-# simple_application_core_api
+# simple application asp.net core api
