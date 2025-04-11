@@ -1,1 +1,1 @@
-# simple application asp.net core api
+# simple application asp.net web core api
